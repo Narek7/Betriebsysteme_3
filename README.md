@@ -13,6 +13,7 @@ sudo apt install openjdk-21-jdk zfsutils-linux -y
 Falls Maven nicht installiert ist, kannst du es nachträglich mit folgendem Befehl hinzufügen:
 
 ```sh
+
 sudo apt install maven -y
 ```
 
